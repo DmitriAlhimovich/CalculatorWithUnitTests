@@ -6,8 +6,8 @@ namespace CalculatorWithUnitTests
     {
         static void Main(string[] args)
         {
-            //SimpleCalculator.Run();
-            CalculatorWithCommandLineParams.Run(args);
+            SimpleCalculator.Run();
+
         }
     }
 }
